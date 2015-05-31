@@ -1,0 +1,34 @@
+#==============================
+#SelectedDefence = Armour - Evasion
+#==============================
+#defence_specific_filtering_start
+#
+#Body Armour list:
+#Armour: 					"Astral Plate" "Glorious Plate"
+#Evasion: 					"Zodiac Leather" "Assasin's Garb"
+#Energy Shield: 			"Occultist's Vestment" "Vaal Regalia"
+#Armour - Evasion: 			"General's Brigandine" "Triumphant Lamellar"
+#Armour - Energy Shield:	"Saint's Hauberk" "Saintly Chainmail"
+#Evasion - Energy Shield: 	"Sadist Garb" "Carnal Armour"
+#
+#Note:  	Interesting Items like Occultist's Vestment will still be 
+#       	shown, unless Occultist's Vestment is first removed from 
+#       	the list of Chance Bases.
+#
+#Body Armour
+Hide
+	BaseType "Occultist's Vestment" "Vaal Regalia" "Saint's Hauberk" "Saintly Chainmail" "Sadist Garb" "Carnal Armour"
+	Rarity <= Magic
+	Sockets <= 5
+	LinkedSockets <= 4
+	Quality <= 19
+	SetBackgroundColor 0 0 0 120
+	SetFontSize 24
+
+#Boots, Gloves, Helmet
+#	Not being used atm
+
+#Shield
+#	Not being used atm
+
+#defence_specific_filtering_end
