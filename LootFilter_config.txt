@@ -1,0 +1,457 @@
+[SCRIPT_OVERRIDE]
+#override_here
+
+[MULTIPLE_EX_ITEMS]
+#fishing_rod
+CheckBox_DH
+0
+SetTextColor
+255 0 255
+SetBorderColor
+255 0 255
+SetBackgroundColor
+0 0 0
+SetFontSize
+44
+PlayAlertSound
+5
+
+#albino_rhoa_feather
+CheckBox_DH
+0
+SetTextColor
+255 0 255
+SetBorderColor
+255 0 255
+SetBackgroundColor
+0 0 0
+SetFontSize
+44
+PlayAlertSound
+5
+
+#mirror_of_kalandra
+CheckBox_DH
+0
+SetTextColor
+255 0 255
+SetBorderColor
+255 0 255
+SetBackgroundColor
+0 0 0
+SetFontSize
+44
+PlayAlertSound
+5
+
+#6_linked_items
+CheckBox_DH
+0
+SetTextColor
+255 0 255
+SetBorderColor
+255 0 255
+SetBackgroundColor
+0 0 0
+SetFontSize
+44
+PlayAlertSound
+5
+
+[CURRENCY]
+#exalted_orb
+CheckBox_DH
+0
+SetTextColor
+255 0 255
+SetBorderColor
+255 0 255
+SetBackgroundColor
+0 0 0
+SetFontSize
+44
+PlayAlertSound
+5
+
+#high_value_currency
+CheckBox_DH
+0
+SetTextColor
+30 255 30
+SetBorderColor
+20 255 20
+SetBackgroundColor
+0 0 0
+SetFontSize
+36
+PlayAlertSound
+4
+
+#remaining_worthwhile_currency
+CheckBox_DH
+0
+SetTextColor
+172 165 132
+SetBorderColor
+172 165 132 180
+SetBackgroundColor
+0 0 0
+SetFontSize
+32
+PlayAlertSound
+0
+
+#5_links
+CheckBox_DH
+0
+SetTextColor
+30 255 30
+SetBorderColor
+20 255 20
+SetBackgroundColor
+0 0 0
+SetFontSize
+38
+PlayAlertSound
+6
+
+#6_sockets
+CheckBox_DH
+0
+SetTextColor
+30 255 30
+SetBorderColor
+20 255 20
+SetBackgroundColor
+0 0 0
+SetFontSize
+38
+PlayAlertSound
+6
+
+#chromatic_items
+CheckBox_DH
+0
+SetBorderColor
+0 255 0 200
+SetBackgroundColor
+0 0 0
+SetFontSize
+32
+PlayAlertSound
+0
+
+[MAPS]
+#lvl_78_maps
+CheckBox_DH
+0
+SetTextColor
+255 0 255
+SetBorderColor
+255 0 255
+SetBackgroundColor
+0 0 0
+SetFontSize
+44
+PlayAlertSound
+5
+
+#rest_of_maps
+CheckBox_DH
+0
+SetTextColor
+30 255 30
+SetBorderColor
+20 255 20
+SetBackgroundColor
+0 0 0
+SetFontSize
+38
+PlayAlertSound
+4
+
+#midnight_and_hope
+CheckBox_DH
+0
+SetTextColor
+255 0 255
+SetBorderColor
+255 0 255
+SetBackgroundColor
+0 0 0
+SetFontSize
+44
+PlayAlertSound
+5
+
+#rest_of_fragments
+CheckBox_DH
+0
+SetTextColor
+30 255 30
+SetBorderColor
+20 255 20
+SetBackgroundColor
+0 0 0
+SetFontSize
+38
+PlayAlertSound
+4
+
+[GEMS_AND_JEWELS]
+#valuable_gems
+CheckBox_DH
+0
+SetTextColor
+30 255 30
+SetBorderColor
+20 255 20
+SetBackgroundColor
+0 0 0
+SetFontSize
+36
+PlayAlertSound
+4
+
+#vaal_gems
+CheckBox_DH
+0
+SetBorderColor
+220 30 30
+SetBackgroundColor
+0 0 0
+SetFontSize
+34
+PlayAlertSound
+0
+
+#quality_14_gems
+CheckBox_DH
+0
+SetTextColor
+30 255 30
+SetBorderColor
+20 255 20
+SetBackgroundColor
+0 0 0
+SetFontSize
+36
+PlayAlertSound
+4
+
+#quality_gems
+CheckBox_DH
+0
+SetBorderColor
+30 150 140
+SetBackgroundColor
+0 0 0
+SetFontSize
+34
+PlayAlertSound
+0
+
+#jewels_all
+CheckBox_DH
+0
+SetBorderColor
+20 255 20
+SetBackgroundColor
+0 0 0
+SetFontSize
+36
+PlayAlertSound
+4
+
+[EXCEPTIONS]
+#ambusher
+CheckBox_DH
+0
+SetBorderColor
+225 205 0
+SetBackgroundColor
+0 0 0
+SetFontSize
+36
+PlayAlertSound
+4
+
+#harbinger_bow
+CheckBox_DH
+0
+SetBorderColor
+225 205 0
+SetBackgroundColor
+0 0 0
+SetFontSize
+34
+PlayAlertSound
+4
+
+#chisel_recipe_normal
+CheckBox_DH
+0
+SetBorderColor
+255 255 255
+SetBackgroundColor
+0 0 0
+
+#chisel_recipe_magic
+CheckBox_DH
+0
+SetBorderColor
+255 255 255
+SetBackgroundColor
+0 0 0
+
+[UNIQUES]
+#rest_of_uniqs
+CheckBox_DH
+0
+SetBorderColor
+140 70 40
+SetBackgroundColor
+0 0 0
+SetFontSize
+36
+PlayAlertSound
+5
+
+[RARES]
+#ilvl_75_jewellry
+CheckBox_DH
+0
+SetBorderColor
+230 50 255 180
+SetBackgroundColor
+0 0 0
+SetFontSize
+34
+PlayAlertSound
+0
+
+#ilvl_60_jewellry
+CheckBox_DH
+0
+SetBorderColor
+255 220 50 180
+SetBackgroundColor
+0 0 0
+SetFontSize
+32
+PlayAlertSound
+0
+
+#rest_of_jewellry
+CheckBox_DH
+0
+SetBorderColor
+255 220 50 180
+SetBackgroundColor
+0 0 0
+SetFontSize
+32
+PlayAlertSound
+0
+
+#ilvl_75_rest_of_rares
+CheckBox_DH
+0
+SetBorderColor
+50 230 255 85
+SetBackgroundColor
+0 0 0
+SetFontSize
+32
+PlayAlertSound
+0
+
+#ilvl_60_rest_of_rares
+CheckBox_DH
+0
+SetBorderColor
+255 255 0 100
+SetBackgroundColor
+0 0 0
+SetFontSize
+32
+PlayAlertSound
+0
+
+[FLASKS]
+#max_qual_flasks
+CheckBox_DH
+0
+SetTextColor
+30 255 30
+SetBorderColor
+20 255 20
+SetBackgroundColor
+0 0 0
+SetFontSize
+34
+PlayAlertSound
+4
+
+#utility_flasks
+CheckBox_DH
+0
+SetBorderColor
+200 200 0 180
+SetBackgroundColor
+0 0 0
+SetFontSize
+32
+PlayAlertSound
+0
+
+#quality_flasks_leveling
+CheckBox_DH
+0
+SetBorderColor
+0 0 0
+SetBackgroundColor
+0 0 0
+SetFontSize
+32
+PlayAlertSound
+0
+
+#quality_flasks_normal
+CheckBox_DH
+0
+SetBorderColor
+0 0 0
+SetBackgroundColor
+0 0 0
+SetFontSize
+32
+PlayAlertSound
+0
+
+[MAPPING_CONFIGURATION]
+#group_animate_weapon_name
+CheckBox_DH
+0
+SetTextColor
+255 255 255
+SetBorderColor
+0 0 0
+SetBackgroundColor
+160 0 0
+SetFontSize
+32
+DropLevel
+100
+
+[BUILD]
+#insert_build_here
+SelectedBuild
+0
+
+[DEFENCE]
+#insert_defence_here
+SelectedDefence
+0
+
+#end_of_file
