@@ -1,0 +1,39 @@
+#==============================
+#SelectedBuild = Melee - 2h
+#==============================
+#build_specific_filtering_start
+
+#Exceptions for good Bases
+#Show
+#	BaseType ""
+
+#Exceptions for 2H Maraketh Bases
+Show
+	BaseType "Eclipse Staff" "Fleshripper" "Exquisite Blade" "Coronal Maul" "Maraketh Bow"
+
+#Hide the rest of: Bows
+Hide
+	Class "Bows"
+	Rarity <= Magic
+	Sockets <= 5
+	LinkedSockets <= 4
+	Quality <= 19
+	SetBackgroundColor 0 0 0 120
+	SetFontSize 24
+
+#Exceptions for 1H Maraketh Bases
+Show
+	BaseType "Profane Wand" "Gemini Claw" "Runic Hatchet" "Tiger Hook" "Dragoon Sword" "Midgard Mace" "Sambar Sceptre"
+
+#Hide the rest of: Claws, Daggers, Wands, One Hand Swords, Thrusting One Hand Swords, One Hand Axes, One Hand Maces, Shields, Sceptres
+Hide
+	Class "Quivers" "Claws" "Daggers" "One Hand" "Sceptres" "Shields" "Wands"
+	Rarity <= Magic
+	Sockets <= 3
+	LinkedSockets <= 3
+	Quality <= 19
+	SetBackgroundColor 0 0 0 120
+	SetFontSize 24
+
+
+#build_specific_filtering_end
