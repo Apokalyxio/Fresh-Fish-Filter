@@ -1,0 +1,8 @@
+Show
+	Rarity Normal
+	Class "Claws" "Daggers" "One Hand" "Staves" "Two Hand" "Sceptres"
+	DropLevel >= 0
+	SetTextColor 255 255 255
+	SetBorderColor 0 0 0
+	SetBackgroundColor 160 0 0
+	SetFontSize	32
