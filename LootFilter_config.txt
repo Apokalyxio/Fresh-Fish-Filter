@@ -101,6 +101,20 @@ SetFontSize
 PlayAlertSound
 0
 
+#rest_of_currency
+CheckBox_DH
+0
+SetTextColor
+172 165 132
+SetBorderColor
+0 0 0
+SetBackgroundColor
+0 0 0
+SetFontSize
+32
+PlayAlertSound
+0
+
 #5_links
 CheckBox_DH
 0
@@ -142,6 +156,20 @@ PlayAlertSound
 0
 
 [MAPS]
+#lvl_80_maps
+CheckBox_DH
+0
+SetTextColor
+255 0 255
+SetBorderColor
+255 0 255
+SetBackgroundColor
+0 0 0
+SetFontSize
+44
+PlayAlertSound
+5
+
 #lvl_78_maps
 CheckBox_DH
 0
@@ -155,6 +183,62 @@ SetFontSize
 44
 PlayAlertSound
 5
+
+#lvl_76_maps
+CheckBox_DH
+0
+SetTextColor
+30 255 30
+SetBorderColor
+20 255 20
+SetBackgroundColor
+0 0 0
+SetFontSize
+40
+PlayAlertSound
+4
+
+#lvl_74_maps
+CheckBox_DH
+0
+SetTextColor
+30 255 30
+SetBorderColor
+20 255 20
+SetBackgroundColor
+0 0 0
+SetFontSize
+38
+PlayAlertSound
+4
+
+#lvl_72_maps
+CheckBox_DH
+0
+SetTextColor
+30 255 30
+SetBorderColor
+20 255 20
+SetBackgroundColor
+0 0 0
+SetFontSize
+38
+PlayAlertSound
+4
+
+#lvl_70_maps
+CheckBox_DH
+0
+SetTextColor
+30 255 30
+SetBorderColor
+20 255 20
+SetBackgroundColor
+0 0 0
+SetFontSize
+38
+PlayAlertSound
+4
 
 #rest_of_maps
 CheckBox_DH
@@ -305,9 +389,25 @@ SetBackgroundColor
 0 0 0
 
 [UNIQUES]
+#valuable_uniqs
+CheckBox_DH
+0
+SetTextColor
+255 0 255
+SetBorderColor
+255 0 255
+SetBackgroundColor
+0 0 0
+SetFontSize
+44
+PlayAlertSound
+5
+
 #rest_of_uniqs
 CheckBox_DH
 0
+SetTextColor
+140 70 40
 SetBorderColor
 140 70 40
 SetBackgroundColor
@@ -411,7 +511,7 @@ CheckBox_DH
 SetBorderColor
 0 0 0
 SetBackgroundColor
-0 0 0
+80 80 80
 SetFontSize
 32
 PlayAlertSound
@@ -423,7 +523,7 @@ CheckBox_DH
 SetBorderColor
 0 0 0
 SetBackgroundColor
-0 0 0
+80 80 80
 SetFontSize
 32
 PlayAlertSound
