@@ -40,9 +40,9 @@
    
    Gui, Add, Button, 	x68 	y230 w55 +center gApplyColor, Apply		; y196 Original
    
-   Gui, Add, Button, 	x135 y258 w55 +center gGuiClose, Cancel  
+   Gui, Add, Button, 	x200 y258 w55 +center gGuiClose, Cancel  
    
-   Gui, Add, Button, 	x200 y258 w55 +center gClose_And_Save, Save		;  Original:	y196	gCopy_Hex_To_Clipboard, Copy
+   Gui, Add, Button, 	x135 y258 w55 +center gClose_And_Save, Save		;  Original:	y196	gCopy_Hex_To_Clipboard, Copy
    
    Gosub Show_New_Color
    
