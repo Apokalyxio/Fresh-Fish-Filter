@@ -1,0 +1,20 @@
+#==============================
+#SelectedDefence = Hide Armour Bases
+#==============================
+#defence_specific_filtering_start
+#
+#Note:  	Interesting Items like Occultist's Vestment will still be 
+#       	shown, unless Occultist's Vestment is first removed from 
+#       	the list of Chance Bases.
+#
+#All Armour
+Hide
+	Rarity <= Magic
+	Class "Gloves" "Boots" "Helmets" "Body Armours"
+	Sockets <= 5
+	LinkedSockets <= 4
+	Quality <= 19
+	SetBackgroundColor 0 0 0 120
+	SetFontSize 24
+
+#defence_specific_filtering_end
