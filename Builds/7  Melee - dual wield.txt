@@ -23,7 +23,7 @@ Hide
 
 #Exceptions for 1H Maraketh Bases
 Show
-	BaseType "Profane Wand" "Gemini Claw" "Runic Hatchet" "Tiger Hook" "Dragoon Sword" "Midgard Mace" "Sambar Sceptre"
+	BaseType "Profane Wand" "Gemini Claw" "Runic Hatchet" "Tiger Hook" "Dragoon Sword" "Behemoth Mace" "Sambar Sceptre"
 
 #Hide the rest of: Quivers, Wands, Shields
 Hide
